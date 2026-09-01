@@ -1,2 +1,2 @@
 # portfolio
-hi everyone it's mu porfolio
+hi everyone it's my porfolio
